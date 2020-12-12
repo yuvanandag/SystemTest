@@ -1,0 +1,13 @@
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.exe
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.deps.json
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.runtimeconfig.json
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.runtimeconfig.dev.json
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\bin\Debug\netcoreapp3.1\Q1_CommonElements.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.csprojAssemblyReference.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.AssemblyInfoInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.AssemblyInfo.cs
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.csproj.CoreCompileInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q1_CommonElements\obj\Debug\netcoreapp3.1\Q1_CommonElements.genruntimeconfig.cache

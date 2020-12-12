@@ -1,0 +1,12 @@
+E:\Altruista\Attended\Users.DataAccess\bin\Debug\netstandard2.0\Users.DataAccess.deps.json
+E:\Altruista\Attended\Users.DataAccess\bin\Debug\netstandard2.0\Users.DataAccess.dll
+E:\Altruista\Attended\Users.DataAccess\bin\Debug\netstandard2.0\Users.DataAccess.pdb
+E:\Altruista\Attended\Users.DataAccess\bin\Debug\netstandard2.0\Users.Model.dll
+E:\Altruista\Attended\Users.DataAccess\bin\Debug\netstandard2.0\Users.Model.pdb
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.csprojAssemblyReference.cache
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.AssemblyInfoInputs.cache
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.AssemblyInfo.cs
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.csproj.CoreCompileInputs.cache
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.csproj.CopyComplete
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.dll
+E:\Altruista\Attended\Users.DataAccess\obj\Debug\netstandard2.0\Users.DataAccess.pdb

@@ -1,0 +1,14 @@
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.Repository.deps.json
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.Repository.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.Repository.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.DataAccess.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.Model.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.DataAccess.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\bin\Debug\netstandard2.0\Q2_Users.Model.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.csprojAssemblyReference.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.AssemblyInfoInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.AssemblyInfo.cs
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.csproj.CoreCompileInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.csproj.CopyComplete
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Repository\obj\Debug\netstandard2.0\Q2_Users.Repository.pdb

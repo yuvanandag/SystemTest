@@ -1,0 +1,9 @@
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\bin\Debug\netstandard2.0\Q2_Users.Model.deps.json
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\bin\Debug\netstandard2.0\Q2_Users.Model.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\bin\Debug\netstandard2.0\Q2_Users.Model.pdb
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.csprojAssemblyReference.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.AssemblyInfoInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.AssemblyInfo.cs
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.csproj.CoreCompileInputs.cache
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.dll
+E:\Altruista\SystemTest\Honeywell_SystemTest\Q2_Users.Model\obj\Debug\netstandard2.0\Q2_Users.Model.pdb

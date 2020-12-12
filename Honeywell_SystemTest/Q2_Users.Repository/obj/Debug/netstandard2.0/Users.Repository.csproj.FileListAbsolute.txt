@@ -1,0 +1,14 @@
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.Repository.deps.json
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.Repository.dll
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.Repository.pdb
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.DataAccess.dll
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.Model.dll
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.DataAccess.pdb
+E:\Altruista\Attended\Users.Repository\bin\Debug\netstandard2.0\Users.Model.pdb
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.csprojAssemblyReference.cache
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.AssemblyInfoInputs.cache
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.AssemblyInfo.cs
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.csproj.CoreCompileInputs.cache
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.csproj.CopyComplete
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.dll
+E:\Altruista\Attended\Users.Repository\obj\Debug\netstandard2.0\Users.Repository.pdb
